@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="main_title">Это layout Activity_Main</string>
+    <string name="main_subtitle">Выберите способ просмотра графических ресурсов</string>
+    <string name="main_button_goto_grid">ТАБЛИЦА (GRID LAYOUT)</string>
+    <string name="main_button_goto_list">СПИСОК (LIST LAYOUT)</string>
+    <string name="list_title">Это Second Layout для Main Activity</string>
+    <string name="list_subtitle">Выберите ресурс для просмотра</string>
+    <string name="list_img_text">Кликните по картинке</string>
+    <string name="list_btn_to_main">НА ГЛАВНУЮ</string>
+    <string name="table_button_to_main">НА ГЛАВНУЮ</string>
+    <string name="image_view_title">Это вторая Activity</string>
+</resources>
