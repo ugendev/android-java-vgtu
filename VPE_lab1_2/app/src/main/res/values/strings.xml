@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VPE_lab1_2</string>
+    <string name="main_title">Файловый менеджер</string>
+    <string name="main_btn_to_galery">К камере и галерее</string>
+    <string name="main_btn_to_media">К медиафайлам</string>
+    <string name="main_btn_to_text_file">К текстовым файлам</string>
+    <string name="camera_btn">Открыть камеру</string>
+    <string name="camera_images_view">Посмотреть изображения</string>
+    <string name="media_open_audio">Открыть аудио</string>
+    <string name="media_open_video">Открыть видео</string>
+    <string name="media_play">Запустить</string>
+    <string name="media_pause">Пауза</string>
+    <string name="media_stop">Стоп</string>
+    <string name="text_file_save">Сохранить</string>
+    <string name="text_file_open">Открыть</string>
+</resources>
