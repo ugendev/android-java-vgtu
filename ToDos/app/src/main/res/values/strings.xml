@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToDos</string>
+    <string name="newTask">+ Задача</string>
+    <string name="todo_completed">Завершено</string>
+    <string name="todo_edit_save">Сохранить</string>
+    <string name="todo_edit_delete">Удалить</string>
+    <string name="filter_title_hint">Заголовок</string>
+    <string name="filter_completion">Завершено</string>
+    <string name="filter_button">Поиск</string>
+    <string name="filter_date_hint">ДД.ММ.ГГГГ</string>
+    <string name="filter_button_clear">Очистить</string>
+</resources>
